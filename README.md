@@ -12,7 +12,7 @@
 
 <br clear="right"/>
 
-A "newline". This text doesn't float anymore, is left-aligned.
+Kind regards Jakub
 <!---
 jawegielewski/jawegielewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
