@@ -8,7 +8,7 @@
 
 My dream is to move from Poland to United States.</p>
 
-<img align="right" src="resources/us_flag.jpg" width="500" height="800">
+<img align="right" src="resources/us_flag.jpg" width="250" height="400">
 <!---
 jawegielewski/jawegielewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
