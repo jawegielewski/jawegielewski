@@ -5,11 +5,14 @@
 
 
 <p align="left">I am Junior Android Developer living in Poland, for now.
-
 My dream is to move from Poland to United States.
-
 <img align="right" src="resources/us_flag.jpg" width="250" height="400">
 </p>
+some text floating around the image
+
+<br clear="right"/>
+
+A "newline". This text doesn't float anymore, is left-aligned.
 <!---
 jawegielewski/jawegielewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
