@@ -13,6 +13,10 @@
 
 <p align="center">but my dream is to settle down in United States.</p>
 
+<br><br>
+
+<p align="center">I like to learn new concepts. My mind is full of ideas and creativity.</p>
+
 <br clear="right"/>
 <br><br>
 Kind regards Jakub
