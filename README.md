@@ -1,7 +1,7 @@
-<p align="center">- 👋 Hi, I’m @jawegielewski</p>
-<p align="center">- 👀 I’m interested in ... Android development</p>
-<p align="center">- 🌱 I’m currently learning ... Jetpack in a range of Architecture Components</p>
-<p align="center">- 📫 How to reach me ... <a href = "mailto: jawegielewski@gmail.com">jawegielewski@gmail.com</a></p>
+- 👋 Hi, I’m @jawegielewski
+- 👀 I’m interested in ... Android development
+- 🌱 I’m currently learning ... Jetpack in a range of Architecture Components
+- 📫 How to reach me ... <a href = "mailto: jawegielewski@gmail.com">jawegielewski@gmail.com</a>
 
 <br>
 
