@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @jawegielewski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... <a href = "mailto: abc@example.com">Send Email</a>
+- 👀 I’m interested in ... Android development
+- 🌱 I’m currently learning ... Jetpack in a range of Architecture Components
+- 📫 How to reach me ... <a href = "mailto: jawegielewski@gmail.com">jawegielewski@gmail.com</a>
+
+I am Junior Android Developer living in Poland, for now.
+
+My dream is to move from Poland to United States.
 
 <img src="resources/san_diego.jpg" width="800" height="500">
 <!---
