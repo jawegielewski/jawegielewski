@@ -7,13 +7,13 @@
 
 <img align="right" src="resources/us_flag.jpg" width="125" height="200">
 
-<br><br>
+<br>
 <p align="center">I am Junior Android Developer living in Poland, for now.</p>
 
 <p align="center">My dream is to move from Poland to United States.</p>
 
 <br clear="right"/>
-
+<br><br>
 Kind regards Jakub
 <!---
 jawegielewski/jawegielewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
