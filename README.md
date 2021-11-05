@@ -5,9 +5,9 @@
 
 
 <img align="right" src="resources/us_flag.jpg" width="125" height="200">
-I am Junior Android Developer living in Poland, for now.
+<p align="center">I am Junior Android Developer living in Poland, for now.
 
-My dream is to move from Poland to United States.
+My dream is to move from Poland to United States.</p>
 
 <br clear="right"/>
 
