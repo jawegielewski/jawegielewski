@@ -4,8 +4,9 @@
 - 📫 How to reach me ... <a href = "mailto: jawegielewski@gmail.com">jawegielewski@gmail.com</a>
 
 
-<img align="right" src="resources/us_flag.jpg" width="250" height="400">
+<img align="right" src="resources/us_flag.jpg" width="125" height="200">
 I am Junior Android Developer living in Poland, for now.
+
 My dream is to move from Poland to United States.
 
 <br clear="right"/>
