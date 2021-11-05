@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jawegielewski
 - 👀 I’m interested in ... Android development
 - 🌱 I’m currently learning ... Jetpack in a range of Architecture Components
-- ⚡ Fact: ... I am a big fan of Il Divo group
 - ⚡ Fun fact: ... I love taking a long sessions in bathtub. Bathtub beyond comparison to shower!
 - 📫 How to reach me ... <a href = "mailto: jawegielewski@gmail.com">jawegielewski@gmail.com</a>
 
