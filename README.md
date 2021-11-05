@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src="resources/san_diego.jpg">
+<img src="resources/san_diego.jpg" width="800" height="600">
 <!---
 jawegielewski/jawegielewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
