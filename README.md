@@ -3,12 +3,8 @@
 - 🌱 I’m currently learning ... Jetpack in a range of Architecture Components
 - 📫 How to reach me ... <a href = "mailto: jawegielewski@gmail.com">jawegielewski@gmail.com</a>
 
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
-<h1>I am Junior Android Developer living in Poland, for now.</h1>
+
+<p align="center">I am Junior Android Developer living in Poland, for now.</p>
 
 My dream is to move from Poland to United States.
 
