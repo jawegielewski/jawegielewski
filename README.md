@@ -19,7 +19,8 @@
 
 <br clear="right"/>
 <br><br>
-Kind regards,
+Kind regards
+<br>
 Jakub
 <!---
 jawegielewski/jawegielewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
