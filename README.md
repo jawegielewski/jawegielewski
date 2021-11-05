@@ -10,7 +10,7 @@
 <br>
 <p align="center">I am Junior Android Developer living in Poland, for now.</p>
 
-<p align="center">My dream is to move from Poland to United States.</p>
+<p align="center">My dream is to settle down in to United States.</p>
 
 <br clear="right"/>
 <br><br>
