@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jawegielewski
-- 👀 I’m interested in ... Android development
+- 👀 I’m interested in ... Android / Java development
 
 
 
@@ -10,7 +10,7 @@
 <img align="right" src="resources/us_flag.jpg" width="125" height="200">
 
 <br>
-<p align="center">I am Junior Android Developer living in Poland, for now,</p>
+<p align="center">I am Junior Android / Java Developer living in Poland, for now,</p>
 
 <p align="center">but my dream is to settle down in United States.</p>
 
