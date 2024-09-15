@@ -4,7 +4,7 @@
 
 - 🔥 Currently I work on my two Android projects:
 1) game Endless Blow,
-2) app for learning foreigh languages
+2) app for learning foreigh languages.
 
 Stay tuned for beta version released soon on Google Play Store!
 
