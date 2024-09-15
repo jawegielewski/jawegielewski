@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in mobile or backend development.
 
-- 🔥 Currently I work on my Android projects:
+- 🔥 Currently I work on my two Android projects:
 1) game Endless Blow,
 2) app for learning foreigh languages
 
