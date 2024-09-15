@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Jakub @jawegielewski Wegielewski
 
-- 👀 I’m interested in mobile AND backend development.
+- 👀 I’m interested in mobile or backend development.
 
-- 🔥 Currently I'm working on my Android game Endless Blow. Stay tuned for beta version released soon in Google Play!
+- 🔥 Currently I work on my Android projects:
+1) game Endless Blow,
+2) app for learning foreigh languages
+
+Stay tuned for beta version released soon on Google Play Store!
 
 - 📫 How to reach me? Text me on <a href = "mailto: jawegielewski@gmail.com">jawegielewski@gmail.com</a>
