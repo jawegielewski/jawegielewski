@@ -3,7 +3,7 @@
 - 👀 I’m interested in mobile or backend development.
 
 - 🔥 Currently I work on two Android projects:
-1) My Multiplayer Game (no final name yet),
+1) My Multiplayer Game (draft name),
 2) app for learning foreign languages.
 
 Stay tuned for beta version released soon on Google Play Store!
