@@ -9,4 +9,5 @@
 
 Current maintenance of applications on Google Play Store.
 
-- 📫 How to reach me? Text me on <a href = "mailto: jawegielewski@gmail.com">jawegielewski@gmail.com</a>
+
+📫 How to reach me? Text me on <a href = "mailto: jawegielewski@gmail.com">jawegielewski@gmail.com</a>
