@@ -1,6 +1,6 @@
 👋 Hi, I’m Jakub @jawegielewski Wegielewski
 
-👀 I’m interested in mobile or backend development.
+👀 I’m interested mainly in mobile development.
 
 🔥 Currently I work on Android prototype project:
 1) My RPG Game (draft name) > Stay tuned for beta version released soon!
