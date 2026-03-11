@@ -3,7 +3,7 @@
 👀 I’m interested mainly in mobile development.
 
 🔥 Currently I work on Android prototype project:
-1) My RPG Game (draft name) > Stay tuned for beta version released soon!
+1) Endless Blow > Stay tuned for beta version released soon!
 
 \+
 
