@@ -2,8 +2,8 @@
 
 👀 I am mainly interested in mobile development.
 
-🔥 Currently I work on Android prototype project:
-1) Endless Blow > Game is available in internal testing.
+🔥 Currently I work on Android project:
+1) Endless Blow > Game is available in open testing.
 
 \+
 
