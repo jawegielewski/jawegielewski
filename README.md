@@ -2,7 +2,7 @@
 
 👀 I am mainly interested in mobile development.
 
-🔥 Currently I work on Android game Endless Blow > available in open testing.
+Currently I work on Android game Endless Blow > available in open testing.
 
 \+
 
